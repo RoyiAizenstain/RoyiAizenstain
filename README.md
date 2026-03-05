@@ -64,6 +64,8 @@ Selected coursework:
 
 - Data Structures — **99**
 - Operating Systems — **90**
+- Machine Learnning -  **87**
+- Intro To Communication - **94**
 - Algorithms — **79**
 
 
