@@ -64,10 +64,15 @@ Selected coursework:
 
 - Data Structures — **99**
 - Operating Systems — **90**
-- Machine Learnning -  **87**
-- Intro To Communication - **94**
+- Machine Learning  — **87**
+- Intro To Communication — **94**
 - Algorithms — **79**
+  
+---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoyiAizenstain&show_icons=true&theme=tokyonight)
 
 # 🌍 Connect
 
