@@ -68,12 +68,11 @@ Selected coursework:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=royiaizenstain&show_icons=true&theme=tokyonight)
+![Royi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyiAizenstain&show_icons=true&rank_icon=github&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royiaizenstain&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyiAizenstain&layout=compact&theme=tokyonight)
 ---
 
 # 🌍 Connect
