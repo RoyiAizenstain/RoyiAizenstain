@@ -72,7 +72,10 @@ Selected coursework:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoyiAizenstain&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoyiAizenstain&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyiAizenstain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 # 🌍 Connect
 
