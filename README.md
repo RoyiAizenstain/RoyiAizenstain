@@ -70,9 +70,9 @@ Selected coursework:
 
 # 📊 GitHub Stats
 
-![Royi's GitHub stats](https://github-readme-stats.vercel.app/api?username=royi-aizenstain&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=royiaizenstain&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royi-aizenstain&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royiaizenstain&layout=compact&theme=tokyonight)
 
 ---
 
