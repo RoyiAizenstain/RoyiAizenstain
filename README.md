@@ -70,9 +70,10 @@ Selected coursework:
 
 ## 📊 GitHub Stats
 
-![Royi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyiAizenstain&show_icons=true&rank_icon=github&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyiAizenstain&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoyiAizenstain&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyiAizenstain&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
 ---
 
 # 🌍 Connect
