@@ -43,7 +43,7 @@ I focus on **AI systems, agent frameworks, and practical ML applications**, aimi
 
 - Enhancing agent capabilities in the **BeeAI Agent Framework**
 - Developing tools for **analysis and training of agent behavior**
-- Enabling interoperability with **LangChain** and **LlamaIndex**
+- Enabling interoperability with **Ragas** and **DeepEval**
 
 ### Android Developer — Ovdimnet
 **2016 – 2017**
